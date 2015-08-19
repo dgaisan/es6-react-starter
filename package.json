@@ -1,0 +1,38 @@
+{
+  "name": "es6-react-starter-kit",
+  "version": "0.0.1",
+  "description": "Bootstrap your es6-react.js development",
+  "main": "index.js",
+  "devDependencies": {
+    "flux": "^2.0.0",
+    "object-assign": "^2.0.0",
+    "gulp": "^3.8.10",
+    "gulp-browserify": "^0.5.0",
+    "gulp-concat": "^2.4.2",
+    "gulp-jshint": "^1.9.0",
+    "gulp-minify-css": "^0.3.11",
+    "raphael": "^2.1.0",
+    "react": "^0.12.1",
+    "reactify": "^0.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "starter-kit",
+    "starterkit",
+    "react.js",
+    "es6/babel"
+  ],
+  "author": "Dmitri Gaisan",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.12.0",
+    "cookie-parser": "^1.3.4",
+    "express": "^4.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dgaisan/es6-react-starter.git"
+  }
+}
